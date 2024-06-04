@@ -7,7 +7,6 @@ namespace menu {
 	inline bool bEnableBoxes{ false };
 	inline bool bEnableHealth{ false };
 	inline bool bEnableAim{ false };
-	inline bool bEnableBang{ false };
 	inline bool bFriendlyFire{ false };
 	inline bool bSmooth{ false };
 	inline bool bNoRecoil{ false };
