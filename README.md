@@ -2,6 +2,8 @@
 
 It's easy external cheat for assault cube 1.3.0.2 hack which uses opengl to draw.
 
+![изображение](https://github.com/lityrgia/Assault-cube-hack/assets/132221013/f2cf9b48-9fd7-4bd1-ae18-6e8775e669ac)
+
 # Features
 
 - Wallhack (Customizable)
@@ -13,7 +15,8 @@ It's easy external cheat for assault cube 1.3.0.2 hack which uses opengl to draw
 
 # How to use
 
-Press INSERT to open cheat.
+Start assault cube and change in options to windowed mode.
+Open cheat and INSERT cheat.
 
 # Plans
 
