@@ -17,6 +17,7 @@ It's easy external cheat for assault cube 1.3.0.2 hack which uses opengl to draw
 
 Start assault cube and change in options to windowed mode.
 Open cheat and INSERT cheat.
+For aimbot hold right mouse button.
 
 # Plans
 
